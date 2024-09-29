@@ -1,0 +1,11 @@
+{
+	"title"		:	"BO2 Footstep Sounds",
+	"type"		:	"Effects",
+	"tags"		:	[ "Fun", "Scenic" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
